@@ -31,3 +31,6 @@ Data Modeling & Visualization Techniques
 💡 Outcome
 
 The dashboard provides decision-makers with a clear view of travel demand trends and revenue distribution, enabling better operational planning, pricing strategies, and route optimization.
+
+# Click on this link to Read the Results
+https://medium.com/@enyoatulukwu/national-rail-strategic-performance-revenue-insights-8183d8f19b0a
